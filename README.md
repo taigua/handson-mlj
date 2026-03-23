@@ -9,3 +9,4 @@ Learn `Hands-On Machine Learning with Scikit-Learn and PyTorch` in Julia.
 - [StatsBase](https://github.com/JuliaStats/StatsBase.jl)
 - [Distributions](https://github.com/JuliaStats/Distributions.jl)
 - [CodecZlib](https://github.com/JuliaIO/CodecZlib.jl)
+- [Impute](https://github.com/invenia/Impute.jl)
