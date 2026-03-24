@@ -3,6 +3,8 @@ Learn `Hands-On Machine Learning with Scikit-Learn and PyTorch` in Julia.
 
 ## Used Packages
 - [CSV](https://github.com/JuliaData/CSV.jl)
+- [FileIO](https://github.com/JuliaIO/FileIO.jl)
+- [ImageIO](https://github.com/JuliaIO/ImageIO.jl)
 - [DataFrames](https://github.com/JuliaData/DataFrames.jl)
 - [CategoricalArrays](https://github.com/JuliaData/CategoricalArrays.jl)
 - [MLJ](https://github.com/JuliaAI/MLJ.jl)
