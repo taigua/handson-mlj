@@ -15,3 +15,4 @@ Learn `Hands-On Machine Learning with Scikit-Learn and PyTorch` in Julia.
 - [Impute](https://github.com/invenia/Impute.jl)
 - [PythonCall](https://github.com/JuliaPy/PythonCall.jl)
 - [Missings](https://github.com/JuliaData/Missings.jl)
+- [Clustering](https://github.com/JuliaStats/Clustering.jl)
